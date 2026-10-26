@@ -20,5 +20,5 @@ Passion-driven developer focusing on software engineering, relational databases,
 ---
 
 ### 📫 Let's Connect
-* 💼 [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/ghala-alsharif-8764a7362)) 
+* 💼 ([https://www.linkedin.com](https://www.linkedin.com/in/ghala-alsharif-8764a7362)) 
 * 📧 ghalaalsharif20@gmail.com
