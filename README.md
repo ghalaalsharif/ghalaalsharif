@@ -1,24 +1,16 @@
-### Hi there, I'm Ghala Al-Sharif 👋 
+# Hi, I’m Ghala! 👋
 
-🚀 **Computer Science Student** @ **Umm Al-Qura University**  
-Passion-driven developer focusing on software engineering, relational databases, and building clean, impactful applications.
+🚀 **Computer Science student at Umm Al-Qura University**
 
----
 
-### 🛠️ Tech Stack & Tools
-* **Programming & Querying:** Python, SQL
-* **Web:** HTML, CSS
-* **Design & Systems:** SDLC, Agile/Scrum, UML Modeling, MySQL Workbench
-* **Version Control:** Git, GitHub
+💻 Interested in Software Engineering, Database Design, and Data Science.
 
----
+🛠️ Currently building my skills in SQL, Python, and Web Development.
 
-### 📌 Featured Projects
-* 🗄️ **[Computing Club Database Management System](https://github.com/ghalaalsharif/computing-club-Database):** Relational database schema and automated reporting via multi-table SQL queries and aggregations.
-* 💰 **[Simple Budget Planner Application](https://github.com/ghalaalsharif/Simple-budget-planner):** End-to-end SDLC and Agile software engineering project featuring UML diagrams and UI prototyping.
+📚 Working on projects to strengthen my problem-solving and software development skills.
 
----
+📍Based in Makkah, Saudi Arabia.
 
-### 📫 Let's Connect
-* 💼 ([https://www.linkedin.com](https://www.linkedin.com/in/ghala-alsharif-8764a7362)) 
-* 📧 ghalaalsharif20@gmail.com
+📫Lets connect 
+* 💼[https://www.linkedin.com/in/ghala-alsharif-8764a7362]
+* 📧(ghalaalsharif20@gmail.com)
