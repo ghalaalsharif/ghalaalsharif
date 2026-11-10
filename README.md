@@ -3,7 +3,7 @@
 🚀 **Computer Science student at Umm Al-Qura University**
 
 
-💻 Interested in Software Engineering, Database Design, and Data Science.
+💻 Interested in Software Engineering and Development, and Data Science.
 
 🛠️ Currently building my skills in SQL, Python, and Web Development.
 
